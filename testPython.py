@@ -56,7 +56,7 @@ def sumar_y_multiplicar(a: Union[int, float], b: Union[int, float]) -> dict:
     print(f"La suma es: {suma} y la multiplicación es: {multiplicacion}")
     return {"suma": suma, "multiplicacion": multiplicacion}
 
-
+# División
 def divide_numbers(a: Union[int, float], b: Union[int, float]) -> float:
     """
     Divide dos números e imprime el resultado.
